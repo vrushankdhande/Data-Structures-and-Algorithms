@@ -31,7 +31,7 @@ Algorithm Design: Once you have selected an appropriate data structure, you need
                   that manipulate the data efficiently. Algorithms determine how operations are 
                   performed on the data structure. For example, different sorting algorithms (
                   e.g., bubble sort, quicksort, mergesort) have varying levels of efficiency 
-                  sorting a list of elements.
+                  in sorting a list of elements.
 
 Efficient algorithms combined with well-chosen data structures can lead to significant improvements
 in software performance. It's important to analyze the time complexity 
