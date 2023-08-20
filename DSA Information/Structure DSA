@@ -1,1 +1,23 @@
 Structure oF DSA
+
+In the context of computer science and algorithms, DSA often refers to "Data Structures and Algorithms." Data structures are ways to organize and store data in a computer's memory, while algorithms are step-by-step procedures for solving specific problems or performing tasks. Here, I'll explain some common data structures and their basic structures:
+
+1. **Arrays**: An array is a collection of elements stored in contiguous memory locations. Elements are accessed using an index. Arrays have a fixed size and are suitable for situations where you need to store a collection of items of the same data type.
+
+2. **Linked Lists**: A linked list is a linear data structure where elements (nodes) are connected using pointers. Each node contains data and a pointer/reference to the next node. Linked lists can be singly linked (each node points to the next) or doubly linked (each node points to both the next and previous nodes).
+
+3. **Stacks**: A stack is a linear data structure that follows the Last-In-First-Out (LIFO) principle. It has two main operations: push (add an item to the top) and pop (remove the top item). Stacks can be implemented using arrays or linked lists.
+
+4. **Queues**: A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It has two primary operations: enqueue (add an item to the back) and dequeue (remove an item from the front). Queues can also be implemented using arrays or linked lists.
+
+5. **Trees**: A tree is a hierarchical data structure that consists of nodes connected by edges. The top node is called the root, and each node can have child nodes. Trees have applications in various algorithms and data storage techniques. Common types of trees include binary trees, binary search trees, AVL trees, and more.
+
+6. **Graphs**: A graph is a collection of nodes (vertices) and edges that connect pairs of nodes. Graphs can be directed (edges have a specific direction) or undirected. Graphs are used to model relationships between objects and are fundamental in algorithms like graph traversal and shortest path finding.
+
+7. **Hash Tables**: A hash table (hash map) is a data structure that stores key-value pairs and provides efficient lookup, insertion, and deletion operations. It uses a hash function to map keys to indices in an array, allowing for constant-time average lookup.
+
+8. **Heaps**: A heap is a binary tree-based data structure that satisfies the heap property. In a min-heap, for example, each parent node has a value smaller than or equal to its children. Heaps are commonly used to implement priority queues.
+
+9. **Tries**: A trie (pronounced "try") is a tree-like data structure used for efficient retrieval of keys in a large dataset. It is often used for implementing dictionaries or autocomplete features.
+
+These are just a few examples of data structures used in computer science. Understanding these structures and their characteristics is essential for designing efficient algorithms and solving a wide range of computational problems.
