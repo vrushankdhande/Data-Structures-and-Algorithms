@@ -17,13 +17,21 @@ their basic structures:
     operations: push (add an item to the top) and pop (remove the top item). Stacks can be implemented using arrays 
     or linked lists.
 
-4. **Queues**: A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It has two primary operations: enqueue (add an item to the back) and dequeue (remove an item from the front). Queues can also be implemented using arrays or linked lists.
+4. Queues : A queue is a linear data structure that follows the First-In-First-Out (FIFO) principle. It has two 
+    primary operations: enqueue (add an item to the back) and dequeue (remove an item from the front). Queues can also 
+    be implemented using arrays or linked lists.
 
-5. **Trees**: A tree is a hierarchical data structure that consists of nodes connected by edges. The top node is called the root, and each node can have child nodes. Trees have applications in various algorithms and data storage techniques. Common types of trees include binary trees, binary search trees, AVL trees, and more.
+5. Trees : A tree is a hierarchical data structure that consists of nodes connected by edges. The top node is called 
+    the root, and each node can have child nodes. Trees have applications in various algorithms and data storage 
+    techniques. Common types of trees include binary trees, binary search trees, AVL trees, and more.
 
-6. **Graphs**: A graph is a collection of nodes (vertices) and edges that connect pairs of nodes. Graphs can be directed (edges have a specific direction) or undirected. Graphs are used to model relationships between objects and are fundamental in algorithms like graph traversal and shortest path finding.
+6. Graphs : A graph is a collection of nodes (vertices) and edges that connect pairs of nodes. Graphs can be directed 
+    (edges have a specific direction) or undirected. Graphs are used to model relationships between objects and are 
+    fundamental in algorithms like graph traversal and shortest path finding.
 
-7. **Hash Tables**: A hash table (hash map) is a data structure that stores key-value pairs and provides efficient lookup, insertion, and deletion operations. It uses a hash function to map keys to indices in an array, allowing for constant-time average lookup.
+7. Hash Tables : A hash table (hash map) is a data structure that stores key-value pairs and provides efficient lookup, 
+    insertion, and deletion operations. It uses a hash function to map keys to indices in an array, allowing for 
+    constant-time average lookup.
 
 8. **Heaps**: A heap is a binary tree-based data structure that satisfies the heap property. In a min-heap, for example, each parent node has a value smaller than or equal to its children. Heaps are commonly used to implement priority queues.
 
