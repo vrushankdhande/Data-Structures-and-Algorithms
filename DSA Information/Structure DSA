@@ -1,8 +1,13 @@
 Structure oF Data Structure and Algorithms
 
-In the context of computer science and algorithms, DSA often refers to "Data Structures and Algorithms." Data structures are ways to organize and store data in a computer's memory, while algorithms are step-by-step procedures for solving specific problems or performing tasks. Here, I'll explain some common data structures and their basic structures:
+In the context of computer science and algorithms, DSA often refers to "Data Structures and Algorithms." 
+Data structures are ways to organize and store data in a computer's memory, while algorithms are step-by-step 
+procedures for solving specific problems or performing tasks. Here, I'll explain some common data structures and 
+their basic structures:
 
-1. **Arrays**: An array is a collection of elements stored in contiguous memory locations. Elements are accessed using an index. Arrays have a fixed size and are suitable for situations where you need to store a collection of items of the same data type.
+1. Arrays : An array is a collection of elements stored in contiguous memory locations. Elements are accessed using
+    an index. Arrays have a fixed size and are suitable for situations where you need to store a collection of items 
+    of the same data type.
 
 2. **Linked Lists**: A linked list is a linear data structure where elements (nodes) are connected using pointers. Each node contains data and a pointer/reference to the next node. Linked lists can be singly linked (each node points to the next) or doubly linked (each node points to both the next and previous nodes).
 
