@@ -33,8 +33,12 @@ their basic structures:
     insertion, and deletion operations. It uses a hash function to map keys to indices in an array, allowing for 
     constant-time average lookup.
 
-8. **Heaps**: A heap is a binary tree-based data structure that satisfies the heap property. In a min-heap, for example, each parent node has a value smaller than or equal to its children. Heaps are commonly used to implement priority queues.
+8. Heaps : A heap is a binary tree-based data structure that satisfies the heap property. In a min-heap, for example,
+    each parent node has a value smaller than or equal to its children. Heaps are commonly used to implement priority
+    queues.
 
-9. **Tries**: A trie (pronounced "try") is a tree-like data structure used for efficient retrieval of keys in a large dataset. It is often used for implementing dictionaries or autocomplete features.
+9. Tries : A trie (pronounced "try") is a tree-like data structure used for efficient retrieval of keys in a large
+    dataset. It is often used for implementing dictionaries or autocomplete features.
 
-These are just a few examples of data structures used in computer science. Understanding these structures and their characteristics is essential for designing efficient algorithms and solving a wide range of computational problems.
+These are just a few examples of data structures used in computer science. Understanding these structures and their
+characteristics is essential for designing efficient algorithms and solving a wide range of computational problems.
