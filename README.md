@@ -1,4 +1,3 @@
-#Data Structures and Algorithms
 # Data Structure and Algorithms
 
 1. **Data Structure:**
